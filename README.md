@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajatdroid
-- 👀 I’m interested in android, Java , Kotlin , Springboot
-- 🌱 I’m currently learning architectures and designs for different plaforms
+- 👀 I’m interested in android, Java , Kotlin , Springboot, flutter
+- 🌱 I’m currently into learning flutter
 
 <!---
 rajatdroid/rajatdroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
